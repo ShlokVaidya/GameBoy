@@ -70,11 +70,6 @@ How I built it (short)
 3. Wired the display via SPI and the DAC via I2S following the pinout above.
 4. Tested power routing carefully — the TP4056 must charge the battery and feed VIN.
 
-Flashing / firmware (TODO)
----
-
-I don’t have the final firmware in this repo yet. TODO: add source code, build steps, and exact flashing commands (Teensy loader / toolchain) so others can run it.
-
 What I learned
 ---
 
