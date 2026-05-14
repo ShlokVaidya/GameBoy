@@ -76,3 +76,18 @@ What I learned
 - Prototype boards are safer than custom PCBs when part footprints aren’t reliable.
 - Teensy 4.1 is powerful and handles display + audio well for retro projects.
 - Taking time to design the case early saved a lot of fit-and-finish headaches later.
+
+# GameBoy Project Bill of Materials (BOM)
+
+| Name | Purpose | Quantity | Total Cost (USD) | Distributor |
+| :--- | :--- | :---: | :---: | :--- |
+| 3D printing | 3D case | 1 | $8.20 | HackClub |
+| TP4056 | Charging Module | 1 | $0.15 | Robu |
+| 5 x 7 cm Prototype Board Double-Side – 2pcs | PCB | 1 | $0.50 | Robu |
+| Tactile Push Button Switch (Pack of 10) | Buttons | 1 | $0.15 | Robu |
+| Adafruit PCM5102 I2S DAC | DAC | 1 | $8.00 | Robu |
+| Teensy DEV 16771 Development Board | MCU | 1 | $30.51 | Robu |
+| Waveshare 2.4inch LCD Display Module, 65K RGB | Display | 1 | $11.39 | Robu |
+| 3.7V 2500mAh 1S LiPo Battery | Battery | 1 | $6.45 | Robu |
+| Miscellaneous / Shipping / Buffer | Project Overhead | 1 | $4.65 | Various |
+| **TOTAL** | | | **$70.00** | |
