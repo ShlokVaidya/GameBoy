@@ -1,0 +1,9 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"3D printing","3D case",1,8.20,"","HackClub"
+"TP4056","Charging Module",1,0.15,"https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-type-c","Robu"
+"5 x 7 cm Prototype Board Double-Side – 2pcs","PCB",1,0.50,"https://robu.in/product/57-cm-universal-pcb-prototype-board-double-sided","Robu"
+"Tactile Push Button Switch (Pack of 10)","Buttons",1,0.15,"https://robu.in/product/6x6x5-tactile-push-button-switch","Robu"
+"Adafruit PCM5102 I2S DAC","DAC",1,8.00,"https://robu.in/product/adafruit-pcm5102-i2s-dac-with-line-level-output-112db-snr","Robu"
+"Teensy DEV 16771 Development Board","MCU",1,30.51,"https://robu.in/product/teensy-4-1-development-board-without-ethernet","Robu"
+"Waveshare 2.4inch LCD Display Module, 65K RGB","Display",1,11.39,"https://robu.in/product/waveshare-240x320-general-2-4inch-lcd-display-module-65k-rgb","Robu"
+"3.7V 2500mAh 1S LiPo Battery","Battery",1,6.45,"https://robu.in/product/wly104050-2500mah-3-7v-single-cell-rechargeable-lipo-battery","Robu"
