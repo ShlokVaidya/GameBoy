@@ -60,6 +60,7 @@ Source files
 ---
 
 - CAD: [CAD/gameboy_cover.step](CAD/gameboy_cover.step) and [CAD/main_body.step](CAD/main_body.step)
+- Onshape: [Link](https://cad.onshape.com/documents/2959a82a3edb83bbc48159fd/w/ab6d59ee1cfbb97b6f96b066/e/5d90c1d9dddd9ab4e6bc3fea?renderMode=0&uiState=6a0a7caf977ca29dae05e5de)
 - Firmware: see [Firmware/](Firmware/)
 
 How I built it (short)
